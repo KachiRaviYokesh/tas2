@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+html {
+    float: left;
+    height: 100%;
+    width: 100%;    
+}
+.ft-fmy {
+    font-family: 'Open Sans', sans-serif;
+}
+.ft-sz-11 {
+    font-size: 11px;
+}
+.ft-sz-12 {
+    font-size: 12px;
+}
+.ft-sz-14 {
+    font-size: 14px;
+}
+.ft-sz-18 {
+    font-size: 18px;
+}
